@@ -1,2 +1,8 @@
 # Doggo_Classification
-Using TensorFlow
+Using:
+  - TensorFlow 2.0
+  - TnsorFlow Hub
+  - Keras
+  - Matplotlib
+  - Numpy
+  - Pandas
